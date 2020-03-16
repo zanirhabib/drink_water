@@ -4,7 +4,7 @@ I am building an app to drink more water using twilio so that it texts me every 
 
 Basic functionality: Send a text to a phone number every 30 minutes reminding them to drink water
 
-Later features:
+Later features: 
 - input times to start and stop sending texts
 - being able to start/stop when you receive notifications
 
